@@ -1,12 +1,14 @@
 # Bycard virtual payment cards providing vcc bank card payment solutions
 **Bycard—a web platform offering instant virtual credit/debit cards (Visa/Mastercard) tailored for both personal and business use, particularly useful for media buyers and digital advertisers**
 
+> 👇👇👇👇👇 To Bycard (Need KYC)
 > 
 <a href="https://app.bycard.com/#/signup?affId=jmBaOTkIdIvxM5t" target="_blank"><img src="photo/Bycard.jpg" alt="ByCard Official website " border="0"></a>
-Need KYC
+
+> 👇👇👇👇👇 To Cardlala (Without KYC)
 > 
 <a href="https://app.cardlala.com/#/signup?affId=fxVWJSu0knUgbDb" target="_blank"><img src="photo/Cardlala.jpg" alt="Cardlala Official website " border="0"></a>
-Without KYC
+
 
 
 ## Bycard main feature Virtual Visa and MasterCard 
