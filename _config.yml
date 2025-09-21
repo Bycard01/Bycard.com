@@ -1,0 +1,32 @@
+# Hexo Configuration
+title: My Hexo Blog
+subtitle: ''
+description: ''
+author: Your Name
+language: zh-TW
+timezone: ''
+
+# URL
+url: https://yourname.github.io
+root: /
+permalink: :year/:month/:day/:title/
+
+# Directory
+source_dir: source
+public_dir: public
+
+# Writing
+new_post_name: :title.md
+default_layout: post
+highlight:
+  enable: true
+  line_number: true
+
+# Plugins
+plugins:
+  - hexo-generator-sitemap
+  - hexo-generator-feed
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
