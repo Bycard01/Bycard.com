@@ -7,7 +7,7 @@ language: zh-TW
 timezone: ''
 
 # URL
-url: https://yourname.github.io
+url: https://bycard01.github.io/Bycard/
 root: /
 permalink: :year/:month/:day/:title/
 
